@@ -1,10 +1,10 @@
 // keshav bathla 
 #include<iostream>
-/* this program performs efficient sorting technique*/
+/* this program performs efficient sorting technique */
 using namespace std;
 void mergesort(int arr[],int l,int r);
 void merge1(int arr[],int l,int m1, int m2,int r);
-
+//hi
 int main()
 {
     int arr[]={45,23,65,12,41,52,63,14};
