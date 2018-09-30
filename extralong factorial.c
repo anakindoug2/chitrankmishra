@@ -11,7 +11,8 @@
 void extraLongFactorials(int n) {
     // Complete this function
     int *num=malloc(40000000000000);
-    int temp=n;
+    long long int temp=n;
+    
     int j=0;
     int r=0;
     int remain=0;
