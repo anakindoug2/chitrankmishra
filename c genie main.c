@@ -1,5 +1,6 @@
-// fuhbjnplp,l
 
+// fuhbjnplp,l
+/* It is mind prediction games some random questions are asked and with answers of that questions result is analysed and output is predicted*/
 
 #include<stdio.h>
 #include<windows.h>
