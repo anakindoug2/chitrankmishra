@@ -1,6 +1,4 @@
-/* my first pr*/
-//hhjnmkl,;
-//bhagg
+
 #include<iostream>
 #include<stdlib.h>
 
